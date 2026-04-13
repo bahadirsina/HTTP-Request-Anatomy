@@ -99,7 +99,7 @@ Body kısmı, genellikle POST ve PUT isteklerinde veri taşımak için kullanıl
 |                                                  | 
 +--------------------------------------------------+
 |                                                  |
-|          Host: example.com                       |          
+|          Host: www.bahadirsina.com               |          
 |          Content-Type: application/json          |       ← Headers
 |          Content-Length: 48                      |
 |                                                  |
